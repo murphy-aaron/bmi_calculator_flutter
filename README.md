@@ -2,15 +2,13 @@
 
 Calculate Your BMI
 
-## Getting Started
+## Project Goals
+- Using Flutter Themes
+- Refactoring Flutter Widgets
+- Custom Flutter Widgets
+- GestureDetector and Slider Widget
+- Multi-Screen Apps (Navigator and Routes)
 
-This project is a starting point for a Flutter application.
+This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at www.appbrewery.co
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Project recreated from https://github.com/londonappbrewery/bmi-calculator-flutter to update to most recent Flutter version.
